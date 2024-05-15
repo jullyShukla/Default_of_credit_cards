@@ -2,6 +2,7 @@
 Conducted analysis on a dataset containing credit card clients' information to predict default payments and develop strategies to minimise risks.
 
 **Objective**
+
 Determine significant predictors of default.
 Analyze how demographics affect default probability.
 Business applications: risk prediction, customer conversion, loss provisioning.
